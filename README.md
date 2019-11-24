@@ -21,10 +21,10 @@ For this, a simple news site will be created.
 
 * The content and titles will be fake because they are not important for the evaluation.
 * The site must be responsive.
-* The color palette of the site will be defined by you.
-* You will choose which fonts from Google to use.
-* You also will choose rights free images (if needed).
-* The use of frameworks and tools are of your consideration, although the weight and performance of the site will be evaluated with the lighthouse tool. It will also be evaluated what frameworks and tools you choose for the job.
+* The color palette of the site will be defined and explained by you on the comments.
+* You will choose and explain which fonts from Google you used. https://fonts.google.com/
+* You also will choose rights free images.
+* The use of frameworks and tools are of your consideration, although the weight and performance of the site will be evaluated with the lighthouse tool https://developers.google.com/web/tools/lighthouse. It will also be evaluated what frameworks and tools you choose for the job. You will defend them on the comments.
 * The use of good practices, such as a class naming convention or clean and ordered code.
 * The site will not be supported by Internet Explorer, but by Edge, Safary and other modern browsers. The use of cross browser rules will be evaluated.
 
