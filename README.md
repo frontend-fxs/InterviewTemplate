@@ -35,6 +35,7 @@ For this, a simple news site will be created.
 ## Email Template
 
 Subject: FXStreet Frontend Interview - [Your full name]
+
 Body:
 * Github URL
 * Comments
