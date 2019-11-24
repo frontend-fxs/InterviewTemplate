@@ -8,8 +8,8 @@ For this, a simple news site will be created.
 ## Requirements:
 
 * Only 2 pages are necessary:
-* * A home page with a highlighted news item at the top plus news headlines grouped by category with links to the only detailed view of the news.
-* * A second page that will be the detailed view of the news item.
+    * A home page with a highlighted news item at the top, plus news headlines grouped by category with links to the only detailed view of the news.
+    * A second page that will be the detailed view of the news item.
 
 ### Elements common to both pages:
 
