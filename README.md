@@ -17,13 +17,13 @@ For this, a simple news site will be created.
 * Footer.
 * Several fake Google ad placements. https://support.google.com/google-ads/answer/7031480?hl=en
 
-### Explain on the comments:
+## Explain on the comments:
 
-    * The color palette of your choice.
-    * Google fonts used. https://fonts.google.com/
-    * Frameworks used.
-    * Tools used.
-    * Defend your layout.
+* The color palette of your choice.
+* Google fonts used. https://fonts.google.com/
+* Frameworks used.
+* Tools used.
+* Defend your layout.
 
 ## Things to keep in mind:
 
